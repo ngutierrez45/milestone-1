@@ -1,1 +1,1 @@
-# milestone-1
+# semantic_segmentation_project
